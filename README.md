@@ -201,8 +201,8 @@ We encourage parents and guardians to periodically review this Privacy Policy.
 
 If you have questions, concerns, or requests regarding this Privacy Policy or ArabiPlay's privacy practices, please contact us:
 
-**Developer:** UJ Global Tech
-**Email:** [info@ujglobal.tech](mailto:info@ujglobal.tech)
+**Developer:**Sultan Khan
+**Email:** [khansultan1@gmail.com)
 **Website:** https://ujglobal.tech
 
 For privacy requests involving a child, please include sufficient information for us to understand and respond to your request. Please do not send unnecessary sensitive information.
